@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-codec-1.12.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-collections4-4.3.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/curvesapi-1.06.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/jaxb-core-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/jaxb-impl-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-examples-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-excelant-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-ooxml-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-ooxml-schemas-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/poi-scratchpad-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/SELENIUM JAR FILES/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
